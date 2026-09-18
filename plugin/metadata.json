@@ -1,5 +1,5 @@
 {
-    "name": "task_list_plugin",
+    "name": "plugin",
     "version": "2.0.0",
     "description": "Плагин для просмотра и выполнения задач, учёта смен и пауз работников",
     "author": "Ваше Имя",
