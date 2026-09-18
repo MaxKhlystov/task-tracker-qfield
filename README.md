@@ -48,7 +48,7 @@ python app.py
 
 ### 3. Установить плагин в QField
 
-См. [`qfield-plugin/README.md`](qfield-plugin/README.md).
+См. [`plugin/README.md`](plugin/README.md).
 
 Кратко: скопировать папку `qfield-plugin/` в каталог плагинов QField и
 указать в `main.qml` IP-адрес сервера.
