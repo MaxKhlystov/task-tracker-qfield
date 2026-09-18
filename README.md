@@ -60,7 +60,7 @@ python app.py
 | Папка | Что внутри |
 |-------|-----------|
 | `server/` | Flask-сервер, шаблоны отчётов, генератор шаблонов |
-| `qfield-plugin/` | QML-плагин для QField (3 файла + metadata) |
+| `plugin/` | QML-плагин для QField (3 файла + metadata) |
 | `docs/` | Скриншоты, схема архитектуры |
 | `server/reports/` | Сюда складываются готовые docx/pdf (в git не попадают) |
 
